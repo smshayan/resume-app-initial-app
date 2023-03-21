@@ -31,7 +31,8 @@
     }
 
     .btn{
-        @apply p-5  flex w-1/2 justify-center uppercase font-medium
+        @apply p-5  flex w-1/2 justify-center uppercase font-medium ease-in-out duration-200 
+        hover:bg-black hover:text-white
     }
     
 }

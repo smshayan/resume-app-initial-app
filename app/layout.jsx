@@ -2,6 +2,7 @@ import './global.css'
 import { personalData } from "../data/page-data"
 import Sidebar from "./components/sidebar"
 
+
 export default function RootLayout({ children }) {
   return (
     <html>

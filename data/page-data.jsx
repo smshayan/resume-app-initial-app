@@ -1,13 +1,13 @@
 export const personalData = {
-	name: "Joe Doe",
-	role: "Software Engineer",
+	name: "SMSHAYAN",
+	role: "Gen Z Mentor",
 	education: [
-		"Bachelor of Science in Computer Science, University of Oxford(2015-2019)",
-		"Master of Science in Artificial Intelligence, Imperial College London (2019-2021)",
+		"Matric The Educators Schooling System(2015-2019)",
+		"Piaic Blockchain and Metaverse Development(2022-present)",
 	],
 	contactLinks: [
-		"mailto:emailto:time2code@gmail.com",
-		"https://twitter.com/time_tocode",
+		"mailto:emailto:smshayan954@gmail.com",
+		"https://twitter.com/smshayan_eth",
 		"https://linkedin.com/aliciarodriguezLi",
 		"https://medium.com/@time2code.ali",
 	],
@@ -31,7 +31,7 @@ export const skills = {
 		{ icon: "⌛️", text: "Time management" },
 	],
 	hard: [
-		{ icon: "💻", text: "Python" },
+		{ icon: "💻", text: "Next Js" },
 		{ icon: "ʦ", text: "TypeScript" },
 		{ icon: "🚀", text: "React" },
 		{ icon: "💾", text: "SQL" },
@@ -62,5 +62,15 @@ export const professionalData = {
 				"Designed and implemented advanced machine learning algorithms to improve predictive accuracy and performance. Built and maintained scalable machine learning infrastructure using cloud computing platforms. Conducted data exploratory analysis to identify potential use cases and opportunities. Participated in regular code reviews to maintain high quality standards.",
 			current: false,
 		},
+	],
+};
+
+
+
+export const portfolio = {
+	
+	body: [
+		{ icon: "/images/portfolio/abzStudio.jpg", text: "abzStudio", link: "https://twitter.com/ABZstudio_" },
+		{ icon: "/images/portfolio/noon.png", text: "NoonAlpha", link:"https://twitter.com/noonalphaa" },
 	],
 };
